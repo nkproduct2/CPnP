@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+
+# MPLAB X project
+build/
+debug/
+dist/
+!nbproject
+nbproject/*
+!nbproject/configurations.xml
+!nbproject/project.properties
+!nbproject/project.xml
+
+.ca/
+
+# etc.
+*.zip
+*.bak
