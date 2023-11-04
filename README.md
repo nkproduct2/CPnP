@@ -16,7 +16,7 @@ Maker Faire Tokyo 2022
  https://makezine.jp/event/makers-mft2022/m0049/
 
 ＜マニュアル＞  
-[CompactPnP Manual](manual/CPnPマニュアル3.pdf)  
+[CompactPnP Manual](manual/CPnP_manual.pdf)  
 
 ＜箱の中＞  
 * ノズルチップ付きヘッドx1
@@ -55,7 +55,7 @@ Maker Faire Tokyo 2022
 |デバイスファームウェア|4軸grbl|
   
 ＜settings＞  
-[Settings](settings/.)
+[Settings](setting)
 
 
 ＜回路図＞  
