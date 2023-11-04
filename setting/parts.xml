@@ -1,0 +1,13 @@
+<openpnp-parts>
+   <part bottom-vision-id="BVS172d9b2059971f04" id="R0805-1K" height-units="Millimeters" height="0.5" package-id="R0805" speed="1.0" pick-retry-count="0"/>
+   <part id="R0201-1K" height-units="Millimeters" height="0.6" package-id="R0201" speed="1.0" pick-retry-count="0"/>
+   <part id="R0402-1K" height-units="Millimeters" height="0.35" package-id="R0402" speed="1.0" pick-retry-count="0"/>
+   <part id="R0603-1K" name="" height-units="Millimeters" height="0.45" package-id="R0603" speed="1.0" pick-retry-count="0"/>
+   <part fiducial-vision-id="FVS_Default" id="FIDUCIAL-HOME" height-units="Millimeters" height="0.0" package-id="FIDUCIAL-1X2" speed="1.0" pick-retry-count="0"/>
+   <part id="rcl-R0402" height-units="Millimeters" height="0.0" package-id="rcl-R0402" speed="1.0" pick-retry-count="0"/>
+   <part id="rcl-R0603" height-units="Millimeters" height="0.5" package-id="rcl-R0603" speed="1.0" pick-retry-count="0"/>
+   <part id="rcl-R0805" height-units="Millimeters" height="1.0" package-id="rcl-R0805" speed="1.0" pick-retry-count="0"/>
+   <part id="rcl-R0201" height-units="Millimeters" height="0.0" package-id="rcl-R0201" speed="1.0" pick-retry-count="0"/>
+   <part fiducial-vision-id="FVS172ad5b341bdd22c" id="FIDUCIAL-1X2-W" height-units="Millimeters" height="0.0" package-id="FIDUCIAL-1X2" speed="1.0" pick-retry-count="0"/>
+   <part fiducial-vision-id="FVS172ad5b3426adf57" id="FIDUCIAL-1X2-B" height-units="Millimeters" height="0.0" package-id="FIDUCIAL-1X2" speed="1.0" pick-retry-count="0"/>
+</openpnp-parts>

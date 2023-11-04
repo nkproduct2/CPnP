@@ -15,8 +15,8 @@ Maker Faire Tokyo 2023
 Maker Faire Tokyo 2022
  https://makezine.jp/event/makers-mft2022/m0049/
 
-＜マニュアル＞
-[CompactPnP Manual](CPnPマニュアル3.pdf)
+＜マニュアル＞  
+[CompactPnP Manual](manual/CPnPマニュアル3.pdf)  
 
 ＜箱の中＞  
 * ノズルチップ付きヘッドx1
@@ -54,6 +54,10 @@ Maker Faire Tokyo 2022
 |制御ソフトウェア|OpenPnP|
 |デバイスファームウェア|4軸grbl|
   
+＜settings＞  
+[Settings](Settings/.)
+
+
 ＜回路図＞  
 [main board](schematics/ArduinoMegaCNC.pdf)  
 [Z board](schematics/zaxis_rev05.pdf)  
