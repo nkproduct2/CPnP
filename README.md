@@ -1,7 +1,7 @@
 # CompactPnP
 ### B4 size chip mounter for automatic mounting of chip components on printed circuit boards
 
-Chip mounter for mounting SMD components on Printed Circuit Boards. Stencil fabrication is also possible by attaching a laser module. Using general-purpose and 3D-printed parts, and a Printed Circuit Board for the XZ axis, the machine is highly reproducible and compact.    
+Chip mounter for mounting SMD components on Printed Circuit Boards. Stencil fabrication is also possible by attaching a laser module. Using general-purpose and 3D-printed parts, and a Printed Circuit Board for the XZ axis, the machine is highly reproducible and compact. CompactPnP uses OpenPnP technology.    
 
 CompactPnPは、プリント基板にSMD部品を実装するB4サイズの小型チップマウンターです。100mm角程度のプリント基板へのSMTアセンブリを自動化できます。レーザーモジュールを装着することでステンシルフィルムの加工も可能。汎用部品と3Dプリント部品を使用し、XZ軸にはプリント基板を使用することで、高い再現性とコンパクト化を実現しています。
 
