@@ -55,7 +55,7 @@ Maker Faire Tokyo 2022
 |デバイスファームウェア|4軸grbl|
   
 ＜settings＞  
-[Settings](setting)
+[Settings & New grbl](setting)
 
 
 ＜回路図＞  
