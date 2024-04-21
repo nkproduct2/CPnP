@@ -116,7 +116,7 @@
   #define DEFAULT_HOMING_DIR_MASK 3 // move positive dir $23
   #define DEFAULT_HOMING_FEED_RATE 200.0 // mm/min $24
   #define DEFAULT_HOMING_SEEK_RATE 1500.0 // mm/min $25
-  #define DEFAULT_HOMING_DEBOUNCE_DELAY 250 // msec (0-65k) $26
+  #define DEFAULT_HOMING_DEBOUNCE_DELAY 50 // msec (0-65k) $26
   #define DEFAULT_HOMING_PULLOFF 1.0 // mm $27
 #endif
 
