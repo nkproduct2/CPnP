@@ -9,6 +9,9 @@ https://sites.google.com/view/nkpro
 
 ![Image 4 MakerFaireTokyo2023](https://makezine.jp/event/wp-content/uploads/sites/2/2023/08/CSO2OHAg.jpg)
 
+Maker Faire Tokyo 2024
+ https://makezine.jp/event/makers-mft2024/m0021/
+
 Maker Faire Tokyo 2023
  https://makezine.jp/event/makers-mft2023/m0072/
 
@@ -16,7 +19,10 @@ Maker Faire Tokyo 2022
  https://makezine.jp/event/makers-mft2022/m0049/
 
 ＜マニュアル＞  
-[CompactPnP Manual](manual/CPnP_manual.pdf)  
+[CompactPnP Manual 1.Assembly](manual/manual-1-P01-15_Assembly.pdf)
+[CompactPnP Manual 2.Install OpenPnP](manual/manual-2-P16-20_OpenPnP_Installation.pdf)
+[CompactPnP Manual 3.HowToUse](manual/manual-3-P21-25_How_to_use.pdf)
+[CompactPnP Manual 4.Options](manual/manual-4-P26-32_Options.pdf)
 
 ＜箱の中＞  
 * ノズルチップ付きヘッドx1
