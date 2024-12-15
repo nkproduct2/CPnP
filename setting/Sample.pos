@@ -1,0 +1,53 @@
+### Module positions - created on  ###
+### Printed by Pcbnew version (6.0.10-0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                                   PosX       PosY       Rot  Side
+D22       LED         LED_PLCC_2835                          11.7364    20.3636  -45.0000  top
+D23       LED         LED_PLCC_2835                          18.5000    23.1000  -90.0000  top
+D24       LED         LED_PLCC_2835                          25.3000    20.3000  -135.0000  top
+D25       LED         LED_PLCC_2835                          18.5000     3.9000   90.0000  top
+D26       LED         LED_PLCC_2835                          25.3000     6.7000  135.0000  top
+D27       LED         LED_PLCC_2835                          28.1000    13.5000  180.0000  top
+D28       LED         LED_PLCC_2835                          11.7277     6.7277   45.0000  top
+D29       LED         LED_PLCC_2835                           8.9000    13.5000    0.0000  top
+D30       LED         LED_PLCC_2835                          66.5000     2.5000    0.0000  top
+D31       LED         LED_PLCC_2835                          58.7250     5.7000  -45.0000  top
+D32       LED         LED_PLCC_2835                          55.5250    13.5000  -90.0000  top
+D33       LED         LED_PLCC_2835                          58.7000    21.3000  -135.0000  top
+D34       LED         LED_PLCC_2835                          66.5250    24.5000  180.0000  top
+D35       LED         LED_PLCC_2835                          74.2636    21.2364  135.0000  top
+D36       LED         LED_PLCC_2835                          77.5000    13.5000   90.0000  top
+D37       LED         LED_PLCC_2835                          74.3000     5.7000   45.0000  top
+D38       LED_ALT     LED_0603_1608Metric                    42.5000    11.3000  -90.0000  top
+D39       LED_ALT     LED_0603_1608Metric                    42.5000    15.7750   90.0000  top
+D40       BAT54ST     SOT-523                                42.5000     7.5000  -90.0000  top
+J3        FIDUCIAL    Dot1mm                                  1.5000     1.5000    0.0000  top
+J8        FIDUCIAL    Dot1mm                                  1.5000    25.5000   90.0000  top
+J6        FIDUCIAL    Dot1mm                                 81.0000    25.5000   90.0000  top
+J9        FIDUCIAL    Dot1mm                                 83.5000     1.5000    0.0000  top
+R20       1           R_0805_2012Metric                      66.5000     6.5000    0.0000  top
+R21       1           R_0805_2012Metric                      59.4000    13.5000  -90.0000  top
+R22       1           R_0805_2012Metric                      66.5000    20.6000  180.0000  top
+R23       1           R_0805_2012Metric                      73.5000    13.5000   90.0000  top
+R25       1           R_0402_1005Metric                      18.4834    11.5000   90.0000  top
+R26       1           R_0402_1005Metric                      16.4734    13.5000    0.0000  top
+R27       1           R_0402_1005Metric                      18.4834    15.5000  -90.0000  top
+R28       1           R_0402_1005Metric                      20.4834    13.5000  180.0000  top
+R29       1           R_0603_1608Metric                      61.3000     8.3000  -45.0000  top
+R30       1           R_0603_1608Metric                      61.2750    18.7000  -135.0000  top
+R31       1           R_0603_1608Metric                      71.6000    18.6000  135.0000  top
+R32       1           R_0603_1608Metric                      71.7000     8.3000   45.0000  top
+R33       1           R_0402_1005Metric                      66.5000     9.3000    0.0000  top
+R34       1           R_0402_1005Metric                      62.2479    13.5000  -90.0000  top
+R35       1           R_0402_1005Metric                      66.5000    17.7521  180.0000  top
+R36       1           R_0402_1005Metric                      70.7000    13.5000   90.0000  top
+R37       1           R_0603_1608Metric                      14.7000     9.7166   45.0000  top
+R38       1           R_0603_1608Metric                      14.7000    17.2834  -45.0000  top
+R39       1           R_0603_1608Metric                      22.2667    17.2834  -135.0000  top
+R40       1           R_0603_1608Metric                      22.2750     9.7834  135.0000  top
+R49       1           R_0805_2012Metric                      18.4834     8.0000   90.0000  top
+R50       1           R_0805_2012Metric                      12.9834    13.5000    0.0000  top
+R51       1           R_0805_2012Metric                      18.4834    19.0000  -90.0000  top
+R52       1           R_0805_2012Metric                      23.9834    13.5000  180.0000  top
+## End
