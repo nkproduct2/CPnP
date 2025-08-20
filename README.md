@@ -52,10 +52,10 @@ https://sites.google.com/view/nkpro
   
 
 ＜マニュアル＞  
-[1. Assembly](manual/manual-1-P01-15_Assembly.pdf)  
-[2. Install OpenPnP](manual/manual-2-P16-20_OpenPnP_Installation.pdf)  
-[3. How To Use](manual/manual-3-P21-25_How_to_use.pdf)  
-[4. Options](manual/manual-4-P26-32_Options.pdf)
+[1. Assembly](manual/manual-1-P01-16_Assembly.pdf)  
+[2. Install OpenPnP](manual/manual-2-P17-21_OpenPnP_Installation.pdf)  
+[3. How To Use](manual/manual-3-P22-26_How_to_use.pdf)  
+[4. Options](manual/manual-4-P27-36_Options.pdf)
 
 
 ＜settings＞  
